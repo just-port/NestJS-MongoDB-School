@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { Args, Mutation, Query, Resolver } from '@nestjs/graphql';
 import { CreateStudentInput } from './create-student.input';
 import { StudentService } from './student.service';
